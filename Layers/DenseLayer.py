@@ -9,5 +9,3 @@ class DenseLayer():
 
     def __init__(self):
         self.units = np.empty(100,dtype=np.float64)
-
-    
